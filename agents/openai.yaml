@@ -1,0 +1,8 @@
+interface:
+  display_name: "Handdrawn Fashion Whiteboard"
+  short_description: "Make tuned 10s fashion sketch videos."
+  brand_color: "#0EA5E9"
+  default_prompt: "Use $handdrawn-fashion-whiteboard to turn this fashion or product sketch image into a tuned 10-second hand-drawn whiteboard video."
+
+policy:
+  allow_implicit_invocation: true
